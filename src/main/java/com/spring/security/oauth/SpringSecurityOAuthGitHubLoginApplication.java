@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityOuthGitHubLoginApplication {
+public class SpringSecurityOAuthGitHubLoginApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurityOuthGitHubLoginApplication.class, args);
+		SpringApplication.run(SpringSecurityOAuthGitHubLoginApplication.class, args);
 	}
 
 }
